@@ -1,3 +1,3 @@
 export const TranslatePage = () => {
-  return <div>TransaletePage</div>;
+  return <div>TranslatePage</div>;
 };
